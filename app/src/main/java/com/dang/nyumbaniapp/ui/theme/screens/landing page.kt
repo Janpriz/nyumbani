@@ -15,7 +15,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.R
+
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontStyle
@@ -26,8 +26,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.dang.nyumbaniapp.navigation.ROUTE_CUSTOMER
 import com.dang.nyumbaniapp.navigation.ROUTE_LANDLORD
-import com.dang.nyumbaniapp.navigation.ROUTE_LOGIN
-import com.dang.nyumbaniapp.navigation.ROUTE_REGISTER
+
 
 @Composable
 fun landing_page(navController: NavHostController) {

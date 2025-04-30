@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019111157533",
+    "project_id": "nyumbani-app-e07fc",
+    "storage_bucket": "nyumbani-app-e07fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019111157533:android:4a9d5b0bbf6bd79cc63bf4",
+        "android_client_info": {
+          "package_name": "com.dang.nyumbaniapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHP5Ihhuu9jMgw_bJa0vE1jXNBauoJxig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
